@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+h1{
+    color: white;
+    background-color: rgb(57, 15, 15);
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    padding: 0.7%;
+}
+.box{
+    background-color: rgb(77, 77, 90);
+}
+.back{
+    width: 800px;
+    height: 600px;
+    background-color: black;
+    border: 5px solid red;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.blue{
+    background-color: aqua;
+    margin: auto;
+    width: 700px;
+    padding-left: 80px;
+    height: 250px;
+    font-size: 18px;
+    padding-top: 45px;
+
+}
+.red{
+    margin-top: 10px;
+}
+.green{
+    margin-top: 27px;
+}
